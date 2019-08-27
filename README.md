@@ -7,7 +7,7 @@ Tested with Python version - 3.6
 
 2. sklearn
 
-3.Parse Trees
+3. Parse Trees
 Stanford CoreNLP from pycorenlp has been used for extracting parse trees. 
 This requires setting up and running a server. Details can be found here:
 https://stanfordnlp.github.io/CoreNLP/index.html
