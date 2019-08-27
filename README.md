@@ -34,7 +34,7 @@ FOR RUNNING:
 4. Run the data_frameconversion script 
 5. Go through the classifier.py file
 6. Based on which features you enable, you might have to set up a few things.
-	# Julian's CRF PosTagger expects the crfpostagger file in specified path
-	# Glove word2vec expects glove.6B in the path, which can be downloaded from:
+	6.1 Julian's CRF PosTagger expects the crfpostagger file in specified path
+	6.2 Glove word2vec expects glove.6B in the path, which can be downloaded from:
 	https://nlp.stanford.edu/projects/glove/
-	# Parse trees rquire CoreNLP
+	6.3 Parse trees rquire CoreNLP
